@@ -1,0 +1,7 @@
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+Создаём TaskbarSi 
+
+Значения:
+0 = Small 
+1 = Medium (дефолт)
+2 = Large
