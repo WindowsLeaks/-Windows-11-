@@ -1,0 +1,15 @@
+1. Открываем редактор реестра от имени администратора.
+
+2. Переходим по пути
+
+Код
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+3. Кликаем Правой кнопкой мыши по пустому месту и создаём DWORD (32-bit) параметр с именем Start_ShowClassicMode
+
+4. Два раза Кликаем по нему.
+
+Значение 1: пуск из Windows 10
+
+Значение 0: пуск из Windows 11
